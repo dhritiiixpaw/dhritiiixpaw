@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">hi, i'm Dhritileena ✨</h1>
 
-<!--
-**dhritiiixpaw/dhritiiixpaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <i>data science grad · creative coder · professional tinkerer</i>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  building things that are useful, a little whimsical, and occasionally powered by a questionable amount of caffeine ☕
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🪄 a little about me
+
+- 🎓 recently graduated in B.Tech CSE (Data Science)
+- 💻 interested in creative coding, web development, and NLP
+- 🧪 currently experimenting with Python, Flask, and AI-powered projects
+- 🎨 happiest when an idea turns into something interactive
+- 🐇 here to learn, build, break things, and make them work again
+
+### 🔮 things i've been building
+
+- **my little corner** — a personal website with a playful personality
+- **bunny.ai** — an AI-powered college guidance chatbot
+- **cinnamoroll 3D viewer** — a tiny interactive 3D experiment
+- **tweetlens** — an NLP project exploring sentiment, emotion, and crime detection
+
+### 🧰 my toolbox
+
+`Python` `JavaScript` `HTML` `CSS` `Flask` `Pandas` `NLP`
+
+### 🌙 currently
+
+exploring creative tech, building things that make me curious, and turning random ideas into little projects.
+
+---
+
+<p align="center">
+  <i>stay curious. make weird little things. ✨</i>
+</p>
