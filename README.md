@@ -28,6 +28,9 @@
 ### 🧰 my toolbox
 
 `Python` `JavaScript` `HTML` `CSS` `Flask` `Pandas` `NLP`
+### 🏅 certifications
+
+- [Cisco Networking Academy — Ethical Hacker](https://credly.com/badges/1ed0f8ca-7d04-4cf9-92e6-5d0b91b35d32)
 
 ### 🌙 currently
 
