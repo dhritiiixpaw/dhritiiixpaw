@@ -1,5 +1,5 @@
 <h1>
-  Hi, I'm Dhriti
+  Hi, I'm Dhritileena
   <img src="wave.gif" width="40">
 </h1>
 </h1>
