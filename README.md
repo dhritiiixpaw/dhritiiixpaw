@@ -12,7 +12,7 @@
 
 ### 🪄 a little about me
 
-- 🎓 recently graduated in B.Tech CSE (Data Science)
+- 🎓 B.Tech CSE (Data Science) graduate(2026)
 - 💻 interested in creative coding, web development, and NLP
 - 🧪 currently experimenting with Python, Flask, and AI-powered projects
 - 🎨 happiest when an idea turns into something interactive
