@@ -1,4 +1,4 @@
-<h1 align="center">hi, i'm Dhritileena ✨</h1>
+<h1 align="center">hi, i'm Dhritileena </h1>
 
 <p align="center">
   <i>data science grad · creative coder · professional tinkerer</i>
