@@ -1,5 +1,5 @@
 <h1 align="center">hi, i'm Dhritileena </h1>
-
+<img src="[YOUR_GIF_LINK](https://www.pinterest.com/pin/good-evening-hand-wave-sticker-good-evening-hand-wave-hello-discover-share-gifs--76139049945995592/)" width="30">
 <p align="center">
   <i>data science grad · creative coder · professional tinkerer</i>
 </p>
